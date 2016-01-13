@@ -4,11 +4,11 @@ Material for the talk on Python language basics
 
 ##Resource list to get you started :  
 
-## Books : 
-*[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - (Personally, this is the best resource out there. Trust me.)
+## Books :
+* [Automate the Boring Stuff with Python] (https://automatetheboringstuff.com/) - (Personally, this is the best resource out there. Trust me.)
 
-##Videos : 
-*[Google's Python developer class](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8825D0450647509)
+##Videos :
+* [Google's Python developer class] (https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8825D0450647509)
 
 ## Websites : 
 * [Hitchiker's Guide ](http://docs.python-guide.org/en/latest/)
