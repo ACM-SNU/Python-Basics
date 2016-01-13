@@ -24,9 +24,9 @@ Material for the talk on Python language basics
 * [Venv] (http://pypi.python.org/pypi/virtualenv)
 
 ##Other Curated Lists  : 
-    * [awesome-python](https://raw.githubusercontent.com/vinta/awesome-python/)
-    * [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
-    * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
-    * [python_reference](https://github.com/rasbt/python_reference)
-    * [pythonidae](https://github.com/svaksha/pythonidae)
+* [awesome-python](https://raw.githubusercontent.com/vinta/awesome-python/)
+* [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+* [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
+* [python_reference](https://github.com/rasbt/python_reference)
+* [pythonidae](https://github.com/svaksha/pythonidae)
     
