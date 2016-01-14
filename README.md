@@ -1,6 +1,6 @@
 # Python-Basics
 Material for the talk on Python language basics
-
+* [iPython-Notebook](http://nbviewer.ipython.org/github/ACM-SNU/Python-Basics/blob/master/Part%20I.ipynb)
 
 ##Resource list to get you started :  
 
