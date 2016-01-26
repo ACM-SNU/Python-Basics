@@ -99,7 +99,7 @@ Variables that are defined inside a function body, for example, are said to have
 def raj():  
     var = "local variable"  
     print(var)  
-4   return  
+    return  
   
 >>> raj()  
 local variable  

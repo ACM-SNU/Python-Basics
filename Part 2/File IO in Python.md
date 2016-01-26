@@ -23,10 +23,10 @@ We can close a file we have opened after working with it by using the ```close()
 ### 2. Writing to a file  
 In order to write to a file, we have the ```write()``` function. It allows us to write any string into the file. For example, if I wanted to open a file called sid.txt and write the integers from 0 to 9 on separate lines in it, I could do this:  
 ``` python
-1.	file=open("sid.txt","w+")  
-2.	for i in range(10):  
-3.	    file.write(str(i)+"\n")  
-4.	file.close()  
+	file=open("sid.txt","w+")  
+	for i in range(10):  
+	    file.write(str(i)+"\n")  
+        file.close()  
 ```
 The only new code here is the ```file.write()``` part. The ```write()``` function is a method of the file object that we created. It takes a string argument as input, and that’s what I supplied. The \n is simply telling to go to the next line after every number it writes into the file.
 Of course, at the end, the ```file.close()``` closes the file to avoid any issues with data.
