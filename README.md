@@ -10,6 +10,8 @@ Material for the talk on Python language basics
 ##Videos :
 * [Google's Python developer class] (https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8825D0450647509)
 
+##Practice Problem Set
+* [CodingBat] (http://codingbat.com/python)
 ## Websites : 
 * [Hitchiker's Guide ](http://docs.python-guide.org/en/latest/)
 * [r/Python](https://www.reddit.com/r/python)
